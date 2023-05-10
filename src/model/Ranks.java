@@ -1,0 +1,8 @@
+package model;
+
+public enum Ranks {
+	INSTRUCTOR,
+	ASSISTANT_PROFESSOR,
+	ASSOCIATE_PROFESSOR,
+	PROFESSOR
+}
